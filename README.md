@@ -1,4 +1,4 @@
-![Minigolf Masters Logo](assets/title.png)
+![Minigolf Masters Logo](.github/title.png)
 
 # Minigolf Masters
 
