@@ -22,12 +22,7 @@
             python3.withPackages (python-pkgs:
               with python-pkgs; [
                 pygame
-                # ruff
-                # numpy
-                # scipy
-                # pandas
-                # matplotlib
-                # requests
+                ruff
               ])
           )
         ];
