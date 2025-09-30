@@ -1,7 +1,5 @@
 ![Minigolf Masters Logo](.github/title.png)
 
-# Minigolf Masters
-
 Minigolf Masters is a 1-4 player local multi-player minigolf game. Compete with your friends to get the lowest total score across 20 courses. 🏌️⛳
 
 ## Demo
